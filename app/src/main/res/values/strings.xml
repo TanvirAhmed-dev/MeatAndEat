@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MeatClassifier</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="female">Female</string>
+    <string name="enter_the_password_you_want">Enter the password you want</string>
+    <string name="enter_details_to_register_on_the_app">Enter details to register on the app</string>
+    <string name="full_name">Full name</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="email">Email</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="date_of_birth_dd_mm_yyyy">Date Of Birth (dd/mm/yyyy)</string>
+    <string name="input_date_of_birth_dd_mm_yyyy">Date of Birth (dd/mm/yyyy)</string>
+    <string name="gender">Gender</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="enter_your_phone_11digit_phone_no">enter your phone 11digit phone no.</string>
+    <string name="password">Password</string>
+    <string name="re_enter_the_password_you_want">Enter the password you want</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="b_register">REGISTER</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
